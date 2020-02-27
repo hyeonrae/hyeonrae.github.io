@@ -1,7 +1,7 @@
 # _config.yml
 
 title:      'Hyeonrae.Wiki'
-url:        ''
+url:        'https://hyeonrae.github.io'
 baseurl:    '/wiki'
 
 #exclude:        [README.md, LICENSE, Gemfile*, Rakefile, vendor]
