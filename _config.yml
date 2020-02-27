@@ -4,7 +4,7 @@ title:      'Hyeonrae.Wiki'
 url:        'https://hyeonrae.github.io'
 baseurl:    '/wiki'
 
-#exclude:        [README.md, LICENSE, Gemfile*, Rakefile, vendor]
+exclude:        [Gemfile*, Rakefile]
 permalink:      pretty
 
 
