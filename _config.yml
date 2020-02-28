@@ -1,8 +1,8 @@
 # _config.yml
 
 title:      'Hyeonrae.Wiki'
-url:        'https://hyeonrae.github.io'
-baseurl:    '/wiki'
+url:        ''
+baseurl:    ''
 
 exclude:        [Gemfile*, Rakefile]
 permalink:      pretty
